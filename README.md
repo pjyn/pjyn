@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **algorithms, problem-solving, software Engineering, react,**
+- 💬 Ask me about **algorithms, problem-solving, software engineering, react, networking, operating system, databases**
 
 - 📫 How to reach me **iamrishabh9598@gmail.com**
 
