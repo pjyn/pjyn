@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **algorithms, problem-solving, software engineering, react, networking, operating system, databases**
 
-- 📫 How to reach me **iamrishabh9598@gmail.com**
+- 📫 How to reach me **rishabhsharma256@gmail.com**
 
 - 📄 Know about my experiences [Full Stack Developer Intern at HighRadius & Web Developer Intern at The Sparks Foundation](Software Developer Intern at HighRadius & Web Developer Intern at The Sparks Foundation)
 
