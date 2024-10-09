@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rishabhsharma256@gmail.com**
 
-- 📄 Know about my experiences [Full Stack Developer Intern at HighRadius & Web Developer Intern at The Sparks Foundation](Software Developer Intern at HighRadius & Web Developer Intern at The Sparks Foundation)
+- 📄 Know about my experiences  Software Engineer at Autodesk [Full Stack Developer Intern at HighRadius & Web Developer Intern at The Sparks Foundation](Software Developer Intern at HighRadius & Web Developer Intern at The Sparks Foundation)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
